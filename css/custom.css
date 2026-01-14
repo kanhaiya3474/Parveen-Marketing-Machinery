@@ -884,7 +884,7 @@ nav {
     background-position: center;
     background-size: cover;
     padding: 60px 0px 0px;
-    background: #35483d;
+    background: #6c6c6c;
 }
 
 
@@ -1149,4 +1149,5 @@ th {
     position: fixed;
     bottom: 70px;
     right: 10px;
+
 }
