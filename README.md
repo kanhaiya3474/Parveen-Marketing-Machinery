@@ -1,3 +1,5 @@
+https://kanhaiya3474.github.io/Parveen-Marketing-Machinery/
+
 # 🏭 Parveen Marketing Machinery
 
 **Parveen Marketing Machinery** is an industrial-focused website showcasing precision-driven electrical and battery testing machines for manufacturing, laboratory, and quality-control applications.
